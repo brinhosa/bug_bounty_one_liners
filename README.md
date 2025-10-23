@@ -1,9 +1,7 @@
 # 🔎 ReconCraft — Guia Prático de Recon & One-Liners (2025)
 
-> Projeto em PT-BR/PT-PT com foco **técnico e limpo** para acelerar hunting em bug bounties e pentests.  
+> Projeto em PT com foco **técnico e limpo** para acelerar hunting em bug bounties e pentests.  
 > Objetivo: consolidar **ferramentas ativas/maintained** e **one-liners** modernos para **recon**, **enumeração**, e **detecção rápida** (XSS, SQLi, SSTI, SSRF, etc.).  
-> Formato: estilo README.md, pronto para publicar no GitHub **brinhosa**.
-
 ---
 
 ## Sumário
